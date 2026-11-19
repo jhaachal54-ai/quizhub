@@ -2,6 +2,8 @@
 
 A final-year project: an online exam platform where **teachers** create timed MCQ quizzes for a specific class and subject, and **students** attempt them and get their score instantly. Students can also practise on their own with a built-in question bank.
 
+🔗 **Live demo:** https://quizhub-livid.vercel.app
+
 **Tech stack:** Next.js 15 (App Router) · Supabase (PostgreSQL, Auth, Row Level Security) · Tailwind CSS · Vercel
 
 ## Features
